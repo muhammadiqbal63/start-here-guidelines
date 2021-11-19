@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@muhammadiqbal63](https://github.com/muhammadiqbal63)
+
 - [@Aleksey-Voko](https://github.com/Aleksey-Voko)
 
 - [@swapnil7711](https://github.com/Swapnil7711)
